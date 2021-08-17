@@ -1,4 +1,4 @@
-Microsoft Windows Setup Repository for the [MultiPlug .Net Edge Computing Platform](https://www.multiplug.app)
+Repository for the [MultiPlug .Net Edge Computing Platform](https://www.multiplug.app)
 
 # MultiPlug Windows Installation
 
@@ -6,3 +6,7 @@ Microsoft Windows Setup Repository for the [MultiPlug .Net Edge Computing Platfo
 
 Multiplug will start and also on each system startup, to access it use a web browser and IP address of the device. There are Windows and Andriod network discovery apps available.
 More information on the [Wiki.](https://github.com/British-Systems/MultiPlug/wiki)
+
+# MultiPlug Debian Linux Installation
+
+[Read Me](https://github.com/British-Systems/MultiPlug-APT)
